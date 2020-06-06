@@ -10,7 +10,7 @@ Datasets can be downloaded [here](https://www.kaggle.com/arkhoshghalb/twitter-se
 
 1.. Download the repository or use Git to clone it : 
 ```
-https://github.com/haizadtarik/hate-speech-detection.git
+git clone https://github.com/haizadtarik/hate-speech-detection.git
 ```
 2. Install dependencies
 ```
