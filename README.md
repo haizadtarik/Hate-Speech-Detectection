@@ -14,7 +14,7 @@ git clone https://github.com/haizadtarik/hate-speech-detection.git
 ```
 2. Install dependencies
 ```
-pip install -r requiremnets
+pip install -r requirements
 ```
 3. Train model
 ```
